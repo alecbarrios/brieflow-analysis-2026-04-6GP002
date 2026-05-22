@@ -1,3 +1,4 @@
 [submodule "brieflow"]
 	path = brieflow
-	url = https://github.com/cheeseman-lab/brieflow.git
+	url = https://github.com/alecbarrios/brieflow.git
+	branch = screen-6GP002-2026-04
